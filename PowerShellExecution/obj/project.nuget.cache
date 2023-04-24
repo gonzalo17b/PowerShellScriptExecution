@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KvxbfpKSzKOkCe/VOrjtx/NYkJ8JVkW5rN8uu/NsgvWssueOQR5pyuTLIzl6FuKdvoL6CXBqT0iyqOKFt3TXdw==",
+  "success": true,
+  "projectFilePath": "C:\\GBC\\Projs\\UAB\\PowerShellScriptExecution\\PowerShellExecution\\PowerShellClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gonzalo.bermejo\\.nuget\\packages\\ensure.that\\10.1.0\\ensure.that.10.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
