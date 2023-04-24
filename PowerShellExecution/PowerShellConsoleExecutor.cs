@@ -44,7 +44,7 @@ namespace PowerShellClient
         {
             var scriptWithNoParams =
                 @"
-                    Write-Host '¡Hola desde PowerShell content sin ningún parámetro!'
+                    Write-Host '¡Hello from PowerShell content without any parameters!'
                 ";
 
             var result = await new PowerShellRunner((PowerShellScript)scriptWithNoParams).RunAsync();
@@ -58,7 +58,7 @@ namespace PowerShellClient
 
             var scriptWithParams =
                 $@"                    
-                    Write-Host '¡Hola desde PowerShell content $name $surname!'
+                    Write-Host '¡Hello from PowerShell content $name $surname!'
                 ";
 
             var result = await new PowerShellRunner((PowerShellScript)scriptWithParams)
