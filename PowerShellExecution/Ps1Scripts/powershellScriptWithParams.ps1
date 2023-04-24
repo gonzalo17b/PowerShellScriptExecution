@@ -1,1 +1,1 @@
-﻿Write-Host '¡Hola desde PowerShell $name $surname!'
+﻿Write-Host '¡Hola desde un fichero PowerShell $name $surname!'
