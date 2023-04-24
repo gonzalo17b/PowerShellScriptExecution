@@ -1,2 +1,2 @@
 ﻿
-Write-Host '¡Hola desde un fichero de PowerShell!'
+Write-Host '¡Hello from a PowerShell file!'
